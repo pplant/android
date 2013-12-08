@@ -17,3 +17,6 @@ gen-external-apklibs
 .DS_Store
 *.swp
 out
+lint.xml
+.classpath
+project.properties

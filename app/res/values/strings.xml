@@ -274,5 +274,8 @@
     <string name="preview">Preview</string>
     <string name="show_raw_markdown">Show raw markdown</string>
     <string name="render_markdown">Render markdown</string>
+    <string name="title_activity_news_widget_settings">GitHub Widget Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>

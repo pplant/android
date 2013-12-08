@@ -76,5 +76,6 @@
     <color name="tab_text">#B3D5E8</color>
     <color name="tab_icon">#FAFAFA</color>
     <color name="tab_text_shadow">#245066</color>
+    <color name="news_widget_background">#99000000</color>
 
 </resources>
